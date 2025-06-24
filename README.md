@@ -1,2 +1,2 @@
 # trainingamigorepo
-Only okiki is working on this for now
+Only okiki is working on this for now to test td
